@@ -61,14 +61,13 @@ st.text("Deteksi selesai.")
 st.sidebar.title("About")
 st.sidebar.info("""
 **Aplikasi Bahasa Isyarat ASL dengan YOLOv8**  
-Aplikasi ini dirancang untuk mendeteksi dan mengenali gestur tangan bahasa isyarat Amerika (ASL) dengan menggunakan model YOLOv8 yang dilatih khusus.
+Aplikasi ini dirancang untuk mendeteksi dan mengenali gestur tangan bahasa isyarat Amerika (ASL) dengan menggunakan model YOLOv8.
 
-### Fitur
-- Deteksi gestur tangan:  
+### Deteksi gestur tangan: 
   - **Aku Cinta Kamu**  
   - **Halo**  
   - **Iya**
-- Pemrosesan video langsung dari kamera untuk deteksi secara real-time.
+
 
 
 ### Penggunaan

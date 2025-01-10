@@ -16,5 +16,5 @@ Proyek ini mengembangkan aplikasi pengenalan gestur tangan berbasis web mengguna
 
 ## Fitur Utama:
 1. **Deteksi Bahasa Isyarat Real-Time**: Menggunakan kamera untuk menangkap gerakan tangan.  
-2. **Model YOLOv8n**: Akurat dalam mendeteksi berbagai gerakan isyarat tangan.  
+2. **Model YOLOv8n**: Akurat dalam mendeteksi kata tertentu yaitu "aku cinta kamu","iya", dan "halo".  
 
